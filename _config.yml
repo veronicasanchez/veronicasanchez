@@ -1,6 +1,6 @@
 # main text of home
-name: Alex Delgado
-bio: iOS Developer - NodeJS fan - Biker
+name: Verónica Sánchez
+bio: BI Consultant - MicroStrategy
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -36,29 +36,29 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: Alex_delg
+# twitter: Alex_delg
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: alejandro-delgado-diaz-42a8b778/
+linkedin: verónica-sánchez-3179604b/
 # youtube: myyoutube
 # spotify: myspotify
-github: alexdelgadodiaz
+github: veronicasanchez
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
-email: alejandrodelgadodiaz88@gmail.com
+email: veronicasanchezmanchester@gmail.com
 
 authors:
     alexdelgado:
         name: Alejandro Delgado
-        bio: iOS Developer - NodeJS fan - Biker
+        bio: BI Consultant - MicroStrategy
         external-image: false
         picture: assets/images/profile.png
-        twitter: Alex_delg
+        # twitter: Alex_delg
     # jamesfoster:
     #     name: James Foster
     #     bio: A Man who develops software with coffee

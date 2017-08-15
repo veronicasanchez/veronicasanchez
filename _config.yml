@@ -55,6 +55,13 @@ email: veronicasanchezmanchester@gmail.com
 authors:
     alexdelgado:
         name: Alejandro Delgado
+        bio: iOS Developer
+        external-image: false
+        picture: assets/images/profile.png
+        # twitter: Alex_delg
+
+    veronica:
+        name: Verónica Sánchez
         bio: BI Consultant - MicroStrategy
         external-image: false
         picture: assets/images/profile.png

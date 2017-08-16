@@ -1,0 +1,38 @@
+---
+title: "INDI@ - Indicadores diarios de afiliación"
+layout: post
+date: 2017-06-18 00:00
+tag: 
+- Microstrategy 
+- INDI@ 
+- GISS
+image: /assets/INDIA/INDIA1.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Muestra Información general diaria, en la que se refleja una comparativa día, semanal, mensual, y anual  de la última información disponible."
+category: project
+author: veronica
+externalLink: false
+---
+
+
+Muestra Información general diaria, en la que se refleja una comparativa día, semanal, mensual, y anual  de la última información disponible.
+
+![Screenshot](/assets/INDIA/INDIA1.png)
+
+---
+
+Diseño del portal
+
+- Selector de fecha
+- Selector de temporalidad
+- Mapa de calor
+- Evolutivo
+- Informes
+- Hoja diaria
+
+![Screenshot](/assets/INDIA/INDIA2.png)
+---
+
+If you need some help, just [let me know](mailto:veronicasanchezmorales86@gmail.com).

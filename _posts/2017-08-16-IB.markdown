@@ -21,7 +21,7 @@ Tiene por objeto facilitar información al usuario sobre la inspección de buque
 ---
 
 Diseño del portal
-![Screenshot](/assets/IB/ib1.png)
+![Screenshot](/assets/IB/ib3.png)
 
 - Cabecera: Incluye logos y botón para navegar a informes predefinidos y botón para navegar por todas las áreas.
 ![Screenshot](/assets/IB/ib1.png)

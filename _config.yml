@@ -15,7 +15,7 @@ picture: assets/images/profile.png
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/AlejandroDelgadoSpa.pdf
+resume-url: assets/cv.pdf
 
 url: https://veronicasanchez.github.io
 # your url: http://USERNAME.github.io
@@ -64,7 +64,7 @@ authors:
         name: Verónica Sánchez
         bio: BI Consultant - MicroStrategy
         external-image: false
-        picture: assets/images/profile.png
+        picture: assets/images/profile1.png
         # twitter: Alex_delg
     # jamesfoster:
     #     name: James Foster

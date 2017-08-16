@@ -27,9 +27,11 @@ Diseño del portal
 - Cabecera
 - Subcabecera
 - Área de datos
-    · Mapa que representa el total de accesos para cada provincia para el año/mes y organismos seleccionados.
-    · Gráfica de barras verticales que representa el número de accesos de actualización, número de accesos de consulta y el total de accesos para el año/mes y organismos seleccionados.
-    · Gráfica circular que representa el número de usuarios y el número de usuarios activos para el año/mes y organismo seleccionados.
+<ul class="list">
+	<li>Mapa que representa el total de accesos para cada provincia para el año/mes y organismos seleccionados.</li>
+	<li>Gráfica de barras verticales que representa el número de accesos de actualización, número de accesos de consulta y el total de accesos para el año/mes y organismos seleccionados.</li>
+	<li>Gráfica circular que representa el número de usuarios y el número de usuarios activos para el año/mes y organismo seleccionados.</li>
+</ul>
 
 
 ---

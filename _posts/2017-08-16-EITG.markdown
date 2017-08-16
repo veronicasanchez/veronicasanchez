@@ -18,7 +18,7 @@ externalLink: false
 
 ![Screenshot](/assets/EITG/EITG.png)
 
-Cuadro de mando realizado por el área de Estadísticas de la GISS. Tiene por objeto facilitar información con análisis de los datos de la Seguridad Social
+Cuadro de mando realizado por el área de Estadísticas de la GISS. Tiene por objeto facilitar información con análisis de los datos de la Seguridad Social.
 
 ---
 
@@ -34,4 +34,4 @@ Diseño del portal
 
 ---
 
-If you need some help, just [let me know](mailto:veronicasanchezmorales@gmail.com).
+If you need some help, just [let me know](mailto:veronicasanchezmorales86@gmail.com).

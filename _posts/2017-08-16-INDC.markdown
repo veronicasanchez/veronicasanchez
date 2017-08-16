@@ -1,0 +1,45 @@
+---
+title: "INDC - Indicadores de desarrollo"
+layout: post
+date: 2017-03-18 00:00
+tag: 
+- Microstrategy 
+- INDC
+- GISS
+image: /assets/INDC/indclogo.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "INDC - Indicadores de desarrollo"
+category: project
+author: veronica
+externalLink: false
+---
+
+Cuadro de mando destinado a la medición de los "Indicadores de desarrollo" establecidos por la GISS relativos a las demandas o peticiones de trabajo solicitadas por la unidad de gestión hacia un centro/área de desarrollo de una subdirección dentro de la SS.
+
+![Screenshot](/assets/INDC/indc1.png)
+---
+
+Diseño del portal
+
+- Pestaña General
+![Screenshot](/assets/INDC/indc2.png)
+- Pestaña Calidad
+![Screenshot](/assets/INDC/indc3.png)
+- Pestaña Time to Market
+![Screenshot](/assets/INDC/indc5.png)
+- Pestaña Productividad SDG
+- Pestaña Productividad ATH
+![Screenshot](/assets/INDC/indc4.png)
+- Pestaña Trabajo en curso
+![Screenshot](/assets/INDC/indc6.png)
+- Pestaña Planificación
+![Screenshot](/assets/INDC/indc7.png)
+- Pestaña Informes
+![Screenshot](/assets/INDC/indc8.png)
+
+
+---
+
+If you need some help, just [let me know](mailto:veronicasanchezmorales86@gmail.com).

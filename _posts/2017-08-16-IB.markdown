@@ -1,0 +1,38 @@
+---
+title: "Inspección de Buques"
+layout: post
+date: 2017-03-18 00:00
+tag: 
+- Microstrategy 
+- Inspección de Buques 
+- GISS
+image: /assets/IB/ib.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Inspección de Buques"
+category: project
+author: veronica
+externalLink: false
+---
+
+Tiene por objeto facilitar información al usuario sobre la inspección de buques mediante cuadros de mando intuitivos y manejables. 
+
+---
+
+Diseño del portal
+![Screenshot](/assets/IB/ib1.png)
+
+- Cabecera: Incluye logos y botón para navegar a informes predefinidos y botón para navegar por todas las áreas.
+![Screenshot](/assets/IB/ib1.png)
+- Subcabecera: Contiene los filtros de información (desplegables)
+- Gestión: Se representan una tabla y dos gráficos.
+
+
+- Diseño de Acceso a Informes
+![Screenshot](/assets/IB/ib2.png)
+- Informes de Visual Insight vacíos.
+
+---
+
+If you need some help, just [let me know](mailto:veronicasanchezmorales86@gmail.com).

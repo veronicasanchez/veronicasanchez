@@ -57,7 +57,7 @@ authors:
         name: Alejandro Delgado
         bio: iOS Developer
         external-image: false
-        picture: assets/images/profile.png
+        #picture: assets/images/profile.png
         # twitter: Alex_delg
 
     veronica:

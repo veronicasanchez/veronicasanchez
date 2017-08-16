@@ -1,0 +1,37 @@
+---
+title: "EITG"
+layout: post
+date: 2017-06-18 00:00
+tag: 
+- Microstrategy 
+- EITG 
+- GISS
+#image: /assets/EITG/EITG.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Cuadro de mando realizado por el área de Estadísticas de la GISS. Tiene por objeto facilitar información con análisis de los datos de la Seguridad Social"
+category: project
+author: veronica
+externalLink: false
+---
+
+![Screenshot](/assets/EITG/EITG.png)
+
+Cuadro de mando realizado por el área de Estadísticas de la GISS. Tiene por objeto facilitar información con análisis de los datos de la Seguridad Social
+
+---
+
+Diseño del portal
+
+- Cabecera
+- Subcabecera
+- Área de datos
+    · Mapa que representa el total de accesos para cada provincia para el año/mes y organismos seleccionados.
+    · Gráfica de barras verticales que representa el número de accesos de actualización, número de accesos de consulta y el total de accesos para el año/mes y organismos seleccionados.
+    · Gráfica circular que representa el número de usuarios y el número de usuarios activos para el año/mes y organismo seleccionados.
+
+
+---
+
+If you need some help, just [let me know](mailto:veronicasanchezmorales@gmail.com).

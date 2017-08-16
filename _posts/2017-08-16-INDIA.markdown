@@ -6,7 +6,7 @@ tag:
 - Microstrategy 
 - INDI@ 
 - GISS
-#image: /assets/INDIA/INDIA1.png
+image: /assets/INDIA/INDIA1.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -16,7 +16,7 @@ author: veronica
 externalLink: false
 ---
 
-![Screenshot](/assets/INDIA/INDIA2png)
+![Screenshot](/assets/INDIA/INDIA2.png)
 
 Muestra Información general diaria, en la que se refleja una comparativa día, semanal, mensual, y anual  de la última información disponible.
 

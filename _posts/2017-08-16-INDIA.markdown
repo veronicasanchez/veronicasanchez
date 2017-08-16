@@ -6,7 +6,7 @@ tag:
 - Microstrategy 
 - INDI@ 
 - GISS
-image: /assets/INDIA/INDIA1.png
+image: /assets/INDIA/india.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination

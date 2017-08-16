@@ -1,6 +1,6 @@
 # main text of home
 name: Verónica Sánchez
-bio: BI Consultant - MicroStrategy
+bio: MicroStrategy - BI Consultant 
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -62,7 +62,7 @@ authors:
 
     veronica:
         name: Verónica Sánchez
-        bio: BI Consultant - MicroStrategy
+        bio: MicroStrategy - BI Consultant
         external-image: false
         picture: assets/images/profile1.jpg
         # twitter: Alex_delg

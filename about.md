@@ -49,7 +49,6 @@ new skills. Thrives on new intellectual challenges.</p>
 <h2>Personal Interests</h2>
 
 <ul>
-	<li>Love teaching English</li>
-	<li>Reading</li>
-	<li>Travel around the world</li>
+	<li>Currently doing an HTML and CSS course</li>
+	<li>Photography</li>
 </ul>

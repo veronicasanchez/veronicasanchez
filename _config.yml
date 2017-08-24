@@ -43,7 +43,7 @@ disqus:
 linkedin: verónica-sánchez-3179604b/
 # youtube: myyoutube
 # spotify: myspotify
-github: veronicasanchez
+#github: veronicasanchez
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -53,26 +53,17 @@ github: veronicasanchez
 email: vsanchezm86@gmail.com
 
 authors:
-    alexdelgado:
-        name: Alejandro Delgado
-        bio: iOS Developer
-        external-image: false
+    #alexdelgado:
+     #   name: Alejandro Delgado
+      #  bio: iOS Developer
+       # external-image: false
         #picture: assets/images/profile.png
         # twitter: Alex_delg
-
     veronica:
         name: Verónica Sánchez
         bio: MicroStrategy - BI Consultant
         external-image: false
         picture: assets/images/profile1.jpg
-        # twitter: Alex_delg
-    # jamesfoster:
-    #     name: James Foster
-    #     bio: A Man who develops software with coffee
-    #     external-image: false
-    #     picture: assets/images/james.jpg
-    #     twitter: jamesfoster
-
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px

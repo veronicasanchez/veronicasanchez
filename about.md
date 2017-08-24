@@ -49,6 +49,6 @@ new skills. Thrives on new intellectual challenges.</p>
 <h2>Personal Interests</h2>
 
 <ul>
-	<li>Currently doing an HTML and CSS course</li>
+	<li>HTML and CSS course</li>
 	<li>Photography</li>
 </ul>
